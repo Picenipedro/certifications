@@ -3,6 +3,7 @@
 
 List:
 
+- UC San Diego - Big Data Specialization (May 2022)
 - IBM - Data Science Professional Certificate (July 2021)
 - DeepLearning.AI - Introduction to Machine Learning in Production (July 2021)
 - 365 Data Science - SQL/MySQL for Data Analytics and BI (April 2021)
