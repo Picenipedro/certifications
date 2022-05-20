@@ -1,4 +1,4 @@
-# Certifications repository
+# Certifications 
 ### Data Science certifications & Others
 
 List:
